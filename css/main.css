@@ -21,12 +21,20 @@
   height: 16%;
   padding: .5em;
 }
+body{
+  margin-top:0px;
+}
+/*ubicamos el navbar fijo y en 1era posicionada 1000 veces encima d cualquier imagen*/
+nav{
+  position: fixed;
+  z-index: 1000;
+  }
 
   /*Tamaño de texto de Logo*/
 .text{
-  font-size: 1.1rem;
+  font-size: 1.4rem;
   display: inline-block;
-  margin-left: 1em;
+  margin-left: 1.2em;
 }
 
   /*Tamaño de barra de tabs*/
@@ -43,12 +51,12 @@
 
   /*Tamaño de texto tabs*/
 .tt{
-  font-size: 14px;
+  font-size: 16px;
   padding: 10px;
 }
 
-/*Separación*/
-
-.separación{
-margin: 6rem;
+/*cont-plantilla*/
+.cont-plantilla img{
+display: inline-block;
+margin-top: 10rem;
 }
