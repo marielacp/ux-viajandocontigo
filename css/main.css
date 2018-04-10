@@ -1,20 +1,54 @@
-* {
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
+  * {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+ font-family: 'Josefin Sans',
+ sans-serif;
 }
+
 .image-fondo-one {
-    width: 100%;
-    background-image: url('../assets/images/taxi.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 100vh;
-    background-position: bottom;
-    /* background-position:center center; */
+  width: 100%;
+  background-image: url('../assets/images/taxi.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  background-position: bottom;
+  /* background-position:center center; */
 }
 
 .img{
-    width: 30%;
-    height: 30%;
-    padding: .5em;
+  width: 16%;
+  height: 16%;
+  padding: .5em;
+}
+
+  /*Tamaño de texto de Logo*/
+.text{
+  font-size: 1.1rem;
+  display: inline-block;
+  margin-left: 1em;
+}
+
+  /*Tamaño de barra de tabs*/
+.ta{
+  position: relative;
+  overflow-x: auto;
+  overflow-y: hidden;
+  height:35px;
+  width: 100%;
+  background-color:#e2686d;
+  margin: 0 auto;
+  white-space: nowrap;
+}
+
+  /*Tamaño de texto tabs*/
+.tt{
+  font-size: 14px;
+  padding: 10px;
+}
+
+/*Separación*/
+
+.separación{
+margin: 6rem;
 }
