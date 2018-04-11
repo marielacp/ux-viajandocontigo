@@ -1,5 +1,7 @@
 # PROYECTO: EXPERIENCIA DE USUARIO CENTRAL DE AUTOBUSES
 
+![marvellapp](https://user-images.githubusercontent.com/32305619/38597685-b26ba286-3d1e-11e8-81fc-4f02bb9ce3d5.png)
+
 ## RETO : NUEVA EXPERIENCIA EN EMPRESAS DE BUSES
 Nos ha contactado Catalina una emprendedora viajera con una idea de negocio. Durante sus últimas vacaciones Catalina estuvo viajando por todo latinoamérica. Durante estos viajes Catalina tuvo que tomar muchos buses de todo tipo para llegar a ver los paisajes más lindos del continente. Durante sus viajes Catalina se dio cuenta que existen aún muchas oportunidades para mejorar la experiencia de todos los usuarios de este tipo de transporte: horarios, embarques, desembarques, compra de tickets en los terminales, compra de tickets online, cancelaciones, cambios de pasajes, etc. Adicionalmente, Catalina se dio cuenta que todas las plataformas de venta de tickets de bus tienen cosas por mejorar en Chile, Perú y México.
 
